@@ -19,5 +19,8 @@
   "homepage": "https://github.com/LauraDAddese/lightness#readme",
   "devDependencies": {
     "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1"
   }
 }
